@@ -1,0 +1,17 @@
+{
+  "GlobalAdmin": {
+    "username": "wittaya.bo@domain4.oneemail.info",
+    "password": "tesT37!@#*%?",
+    "role" : "Global Admin"
+  },
+  "baseURL": "https://uat-ucportal.oneemail.info",
+  "ValidateData":{
+    "english": "Test English",
+    "thai": "ทดสอบภาษาไทย",
+    "number": "1234567890",
+    "special": ".-_()&",
+    "space": "   ",
+    "specialNotAllowed": "!@#$%^*+=|\\:;\"'<>,?/",
+    "specialForAcronyms": "."
+  }
+}

@@ -1,7 +1,7 @@
 # DGA-Automate
 
 ## Step 1 
-<code>https://github.com/NattaponChusriwan/DGA-Automate.git</code>
+<code>git clone https://github.com/NattaponChusriwan/DGA-Automate.git</code>
 
 ## Step 2 
 <code>npm install</code>
